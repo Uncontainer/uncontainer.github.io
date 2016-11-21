@@ -1,8 +1,8 @@
 modalID: 4
 title: Project 4
-date: 2014-07-09
-img: 4.jpg
-client: Start Bootstrap
+date: 2013-07-09
+img: docker.jpg 
+client: Confidential 
 clientLink: "#"
-category: Web Development
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim aliquid dicta ullam in repellendus amet perspiciatis adipisci architecto obcaecati sit voluptas ipsam, deleniti neque placeat tenetur cum tempore velit.
+category: Building a financial lending platform on Docker 
+description: We built a platform for an innovative lending platform based on Docker which abstracted out redis, elasticsearch, postgresql, ruby on rails and celery. <br/> This platform was migrated from Rackspace -> AWS within a few hours as a consequence of containerization. 

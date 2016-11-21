@@ -49,7 +49,7 @@ googleAnalytics = ""
 	# About section
 	[params.about]
 		headline    = "We've got what you need!"
-		description = "We at Uncontainer, allow you to cleanly separate what has traditionally has been dumped on a single big server (which you can still use). Everything is concise, easy-to-understand, and easily replace-able components."
+		description = "We at Uncontainer, allow you to cleanly separate what has traditionally has been dumped on a single big server (which you can still use). Everything is concise, easy-to-understand, and easily replace-able components. <br/> <br/> For example, with Docker, it's easy to swap out your Apache container for your nginx container in a way that doesn't affect your application because it can run fine with any of your web server containers."
 
 
 	# Service section
@@ -86,21 +86,21 @@ googleAnalytics = ""
 
     # Aside section
 	[params.aside]
-		headline = "Get the Creative Theme for Hugo"
+		headline = "Watch how Kubernetes and Docker helps build a bank! "
 
 		[params.aside.button]
-			text = "Download now"
-			link = "//github.com/digitalcraftsman/hugo-creative-theme"
+			text = "Building a bank with Kubernetes at Monzo"
+			link = "//www.youtube.com/watch?v=YkOY7DgXKyw"
 
 	# Contact section
 	[params.contact]
 		headline = "Let's Get In Touch!"
-		description = "Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!"
-		phone = "123-456-6789"
-		email = "feedback@startbootstrap.com"
+		description = "Give us a buzz or drop us an email. We dont charge to talk to people ;) We dont have secret algorithms... just deep technology experience and lots of hard work"
+		phone = "+91-98114-52-098"
+		email = "hello@uncontainer.com"
 
 	# Google Maps section
-	# [params.location]
-	# 	latitude  = "34.007850"
-	# 	longitude = "-118.499305"
-	# 	maps_api_key = ""
+	 [params.location]
+	 	latitude  = "28.4979537"
+	 	longitude = "77.1596063"
+	 	maps_api_key = ""
