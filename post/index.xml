@@ -42,6 +42,10 @@ Watch how Monzo is doing this at scale in &lt;a href=&#34;//www.youtube.com/watc
       
       <guid>http://www.uncontainer.com/post/third/</guid>
       <description>&lt;p&gt;Docker and Kubernetes are compatible with various cloud providers - including Amazon Web Services, Google Cloud and Microsoft Azure&amp;hellip;. as well as bare metal, plain servers like Rackspace and Softlayer&lt;/p&gt;
+
+&lt;p&gt;Our containers are also compatible with any programming language - whether PHP, Java, Ruby, Python&amp;hellip; or some of the more esoteric R and fortran.&lt;/p&gt;
+
+&lt;p&gt;You can even run your production environment on your laptop!&lt;/p&gt;
 </description>
     </item>
     
