@@ -3,6 +3,27 @@
   
   <url>
     <loc>http://www.uncontainer.com/</loc>
+    <lastmod>2015-07-18T14:08:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.uncontainer.com/about/about/</loc>
+    <lastmod>2015-07-18T14:08:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.uncontainer.com/post/first/</loc>
+    <lastmod>2015-07-18T14:08:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.uncontainer.com/post/second/</loc>
+    <lastmod>2015-07-18T14:08:45+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.uncontainer.com/post/third/</loc>
+    <lastmod>2015-07-18T14:53:21+02:00</lastmod>
   </url>
   
 </urlset>

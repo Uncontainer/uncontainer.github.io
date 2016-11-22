@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About-rsses on UnContainer</title>
+    <link>http://www.uncontainer.com/about/index.xml</link>
+    <description>Recent content in About-rsses on UnContainer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Jul 2015 14:08:35 +0200</lastBuildDate>
+    <atom:link href="http://www.uncontainer.com/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About UnContainer</title>
+      <link>http://www.uncontainer.com/about/about/</link>
+      <pubDate>Sat, 18 Jul 2015 14:08:35 +0200</pubDate>
+      
+      <guid>http://www.uncontainer.com/about/about/</guid>
+      <description>&lt;p&gt;Containers free your infrastructure from its shackles. UnContain your mission critical systems using Containers!&lt;/p&gt;
+
+&lt;p&gt;We are a group of software architects (with a minimum of 10-15 years experience each) who have suffered the pain of struggling with legacy infrastructure and lock-in.&lt;/p&gt;
+
+&lt;p&gt;We now specialize in leveraging containers to build portable infrastructure components that frees you from infrastructure lockin and enables next generation technology (like microservices)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

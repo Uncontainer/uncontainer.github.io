@@ -1,8 +1,0 @@
-modalID: 6
-title: Project 6
-date: 2014-07-10
-img: kubernetes.jpg
-client: Confidential
-clientLink: "#"
-category: Bluesky cluster creation
-description: For a fashion ecommerce startup with a huge number of interconnected services, we built a private cloud on top of Kubernetes 

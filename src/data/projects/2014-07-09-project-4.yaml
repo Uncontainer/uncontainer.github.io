@@ -1,8 +1,0 @@
-modalID: 4
-title: Project 4
-date: 2013-07-09
-img: docker.jpg 
-client: Confidential 
-clientLink: "#"
-category: Building a financial lending platform on Docker 
-description: We built a platform for an innovative lending platform based on Docker which abstracted out redis, elasticsearch, postgresql, ruby on rails and celery. <br/> This platform was migrated from Rackspace -> AWS within a few hours as a consequence of containerization. 
