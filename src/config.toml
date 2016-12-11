@@ -4,7 +4,7 @@ title = "UnContainer"
 canonifyUrls = "true"
 
 [params]
-    description = "Containers (like Docker, rkt, kubernetes) is to infrastructure what object oriented programming is to bad code"
+    description = "Containers (like Docker, rkt, kubernetes) is to infrastructure what object oriented programming is to bad code. <br/> We Build. Manage. Transfer. private cloud infrastructure with no vendor lock-in."
     custom_css = ["css/local.css"]
 
 [[params.social]]
